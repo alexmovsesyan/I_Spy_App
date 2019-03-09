@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "708982314661",
+    "firebase_url": "https://i-spy-ebeb4.firebaseio.com",
+    "project_id": "i-spy-ebeb4",
+    "storage_bucket": "i-spy-ebeb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708982314661:android:4abce0b855b52e0f",
+        "android_client_info": {
+          "package_name": "com.ethlex.i_spy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708982314661-vmbnc0lfj6dmbjmkdksq5plhd0lmjbfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ethlex.i_spy",
+            "certificate_hash": "a7c5763195cc8c4832106ae5b4db86504b33dfed"
+          }
+        },
+        {
+          "client_id": "708982314661-cuikhv01bjdmvejee9jp1btkd87g3jd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiRIpbVQhHxgi2zgZhITzBQE398wTDlb4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708982314661-cuikhv01bjdmvejee9jp1btkd87g3jd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
